@@ -1,6 +1,3 @@
-# LifeLink – Project Flowchart
-
-```mermaid
 flowchart TD
     A[Donor / Recipient Registration] --> B[Validate & Encrypt Data]
     B --> C[Cloud Storage (Firebase Database)]
